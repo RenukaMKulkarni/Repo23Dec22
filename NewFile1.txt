@@ -1,2 +1,3 @@
 Welcome to GITHUB demo!
 File edited locally.
+New line added by my team member.
